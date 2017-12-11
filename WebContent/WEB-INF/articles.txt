@@ -1,0 +1,4 @@
+1|Article1|/vetements-etoile.jpg|description du produit1|Prix 30€
+2|Article2|/pull.jpeg|description du produit2|Prix 20€
+3|Article3|/string-de-noel-homme.jpg|description du produit3|Prix 40€
+4|Article4|/femme.jpg|description du produit4|Prix 50€

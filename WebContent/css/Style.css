@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+body {
+	font-family: verdana, sans-serif;
+	margin: 0;
+	color: #333;
+	
+}
+
+img {
+	float: left;
+	width: 200px;
+	margin-right: 10px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 10px grey;
+}
+article{
+	background-color: #ff8080;
+	
+}
+
+header {
+	background: yellowgreen;
+	padding: 25px;
+	
+}
+
+header img { 
+    width: 120px; 
+	transition: all 1s ease;
+}
+
+header img:hover {
+	transform: rotate(180deg);
+}
+	
+header nav {
+	float: right;
+	padding: 50px 0;
+}
+
+
+
+header nav a:hover {
+	color: red;
+}
+
+
+
+
+footer {
+	padding: 25px;
+	text-align: center;
+	font-size: 18px;
+	color: black;
+	text-shadow : 2px 2px 5px white;
+}
+
+article img:hover {
+	box-shadow: 2px 2px 10px #555;
+}
+
+
+
+
